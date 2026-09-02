@@ -4,25 +4,25 @@
      Colour mode, so one file serves both GitHub themes. Regenerate with:
        python scripts/dotify.py assets/jacket.png -o assets/portrait \
          --cols 100 --equalize --detail 0.5 --color -->
-<img src="assets/portrait.svg" width="300" alt="Gargi Bhardwaj, rendered as a dot matrix">
+<img src="assets/portrait.svg" width="300" alt="Julio Hernesto, rendered as a dot matrix">
 
 <br>
 
 <!-- NAME / TAGLINE - animated typing -->
-<a href="https://github.com/gargibhardwaj24">
+<a href="https://github.com/245564-ship-it">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Gargi+Bhardwaj;Machine+Learning+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
 </a>
 
 <br>
 
 <!-- SOCIALS -->
-<a href="https://linkedin.com/in/gargibhardwaj24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:gargibhardwaj2430@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://dossier-iota-one.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://codeforces.com/profile/gargibhardwaj24"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-<a href="https://leetcode.com/u/gargibhardwaj24"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://www.linkedin.com/in/julio-hernesto-alvarez-condori-51696a407/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="github+245564@unsaac.edu.pe"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="next"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="next"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+<a href="next"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
-<img src="https://komarev.com/ghpvc/?username=gargibhardwaj24&style=flat&color=39d353&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=245564-ship-it&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
 
@@ -34,13 +34,10 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Gargi Bhardwaj**. I build things that sit somewhere between machine learning and the web,
-and I solve problems for fun when neither of those is cooperating.
+Hi, I'm **Julio Hernesto**. I build complete solutions about data, like, full pipelines of data, from end to end, and modelos of data science that require less resources for more more benefics
 
-- Currently building **[Sage](https://github.com/gargibhardwaj24/Sage)** and **[Spyder](https://github.com/gargibhardwaj24/spyder_frontend)**
-- Portfolio: **[dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app)**
-- Learning **React + Machine Learning**
-- Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
+- Portfolio: **comic soon**
+- Learning **AWS and BIG DATA**
 
 <br>
 
@@ -141,7 +138,7 @@ and I solve problems for fun when neither of those is cooperating.
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/dossier">
+  <a href="https://github.com/245564-ship-it/dossier">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-dossier-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-dossier-light.svg">
@@ -150,7 +147,7 @@ and I solve problems for fun when neither of those is cooperating.
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/Sage">
+  <a href="https://github.com/245564-ship-it/Sage">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Sage-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-Sage-light.svg">
@@ -161,7 +158,7 @@ and I solve problems for fun when neither of those is cooperating.
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/Socrates">
+  <a href="https://github.com/245564-ship-it/Socrates">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Socrates-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-Socrates-light.svg">
@@ -170,7 +167,7 @@ and I solve problems for fun when neither of those is cooperating.
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/humanOS">
+  <a href="https://github.com/245564-ship-it/humanOS">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-humanOS-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-humanOS-light.svg">
@@ -185,10 +182,10 @@ and I solve problems for fun when neither of those is cooperating.
 
 | project | live | stack |
 |---|---|---|
-| **[dossier](https://github.com/gargibhardwaj24/dossier)** | [dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app) | `JavaScript` `GSAP` `Lenis` |
-| **[Sage](https://github.com/gargibhardwaj24/Sage)** | [sage-calendar.vercel.app](https://sage-calendar.vercel.app) | `JavaScript` |
-| **[Socrates](https://github.com/gargibhardwaj24/Socrates)** | [socrates-one-coral.vercel.app](https://socrates-one-coral.vercel.app) | `Next.js` `Prisma` `TypeScript` |
-| **[humanOS](https://github.com/gargibhardwaj24/humanOS)** | [human-os-two.vercel.app](https://human-os-two.vercel.app) | `JavaScript` `Gemini` |
+| **[dossier](https://github.com/245564-ship-it/dossier)** | [dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app) | `JavaScript` `GSAP` `Lenis` |
+| **[Sage](https://github.com/245564-ship-it/Sage)** | [sage-calendar.vercel.app](https://sage-calendar.vercel.app) | `JavaScript` |
+| **[Socrates](https://github.com/245564-ship-it/Socrates)** | [socrates-one-coral.vercel.app](https://socrates-one-coral.vercel.app) | `Next.js` `Prisma` `TypeScript` |
+| **[humanOS](https://github.com/245564-ship-it/humanOS)** | [human-os-two.vercel.app](https://human-os-two.vercel.app) | `JavaScript` `Gemini` |
 
 </sub>
 
